@@ -1,12 +1,12 @@
-let score = "33";
+// let score = "33";
 
-console.log(typeof(score));
-console.log(typeof score);
+// console.log(typeof(score));
+// console.log(typeof score);
 
-let valueInNumber = Number("33adfasd");
+// let valueInNumber = Number("33adfasd");
 
-console.log(typeof valueInNumber);
-console.log(valueInNumber)//be carefull while converting as it can be a Nan 
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber)//be carefull while converting as it can be a Nan 
 
 // "33" =>33
 // "string" =>NaN(Not a number)
@@ -20,6 +20,12 @@ console.log(booleanIsLoggedIn);
 // "" =>false
 // "dimpesh" =>true
 
+
+console.log("1"+2)
+console.log(1+"2")
+console.log("1"+2+2)
+console.log("1"+2+"2")
+console.log(3+2+"2")
 
 
 
