@@ -12,4 +12,6 @@ console.log(date.toLocaleString('default',{
     
 }))
 console.log("hello");
+console.log("teri maa ki chut");
+
 ;
