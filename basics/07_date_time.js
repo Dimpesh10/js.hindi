@@ -7,4 +7,5 @@ console.log(date.toLocaleString());
 console.log(date.toLocaleString('default',{
     weekday:'short'
     
+    
 }));
